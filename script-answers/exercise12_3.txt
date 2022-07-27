@@ -1,0 +1,6 @@
+1. sudo docker container ls -a
+2. sudo docker start -i d26ac23210d2
+3. apt-get update
+4. apt-get install nano
+5. nano /usr/src/app/index.js
+6. exit

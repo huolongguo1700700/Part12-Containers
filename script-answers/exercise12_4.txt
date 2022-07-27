@@ -1,0 +1,6 @@
+1. sudo docker start -i d26ac23210d2
+2. apt-get install curl
+3. curl -sL https://deb.nodesource.com/setup_16.x | bash
+4. apt install -y nodejs
+5. node /usr/src/app/index.js
+6. exit
